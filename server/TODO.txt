@@ -1,0 +1,4 @@
+#1 authJWT ADMIN && MODERATOR conditional
+#2 http header after sending to client error
+#3 Not found login
+#4 Populate Roles Table
